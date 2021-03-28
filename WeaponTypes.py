@@ -1,0 +1,62 @@
+WeaponSkillDict = {
+    # ATK skills
+    ('Normal', 'Atk', 'Small', 10) : 10,
+    ('Normal', 'Atk', 'Small', 15) : 12,
+    ('Normal', 'Atk', 'Small', 20) : 13,
+    ('Normal', 'Atk', 'Medium', 10) : 12,
+    ('Normal', 'Atk', 'Medium', 15) : 14,
+    ('Normal', 'Atk', 'Big', 10) : 15,
+    ('Normal', 'Atk', 'Big', 15) : 18,
+    ('Normal', 'Atk', 'Big', 20) : 20,
+    ('Normal', 'Atk', 'Big II', 10) : 16,
+    ('Normal', 'Atk', 'Big II', 15) : 20,
+    ('Normal', 'Atk', 'Big II', 20) : 22,
+    ('Normal', 'Atk', 'Massive', 10) : 17,
+    ('Normal', 'Atk', 'Massive', 15) : 22,
+    ('Normal', 'Atk', 'Massive', 20) : 25,
+
+    ('Omega', 'Atk', 'Medium', 10) : 12,
+    ('Omega', 'Atk', 'Medium', 15) : 14.5,
+    ('Omega', 'Atk', 'Medium', 20) : 16,
+    ('Omega', 'Atk', 'Big', 10) : 15,
+    ('Omega', 'Atk', 'Big', 15) : 18,
+    ('Omega', 'Atk', 'Big', 20) : 20,
+
+     ('EX', 'Atk', 'Small', 10) : 10,
+     ('EX', 'Atk', 'Small', 15) : 12,
+     ('EX', 'Atk', 'Medium', 10) : 12,
+     ('EX', 'Atk', 'Medium', 15) : 14.5,
+     ('EX', 'Atk', 'Big', 10) : 15,
+     ('EX', 'Atk', 'Big', 15) : 18,
+     ('EX', 'Atk', 'Big', 20) : 21,
+     ('EX', 'Atk', 'Massive', 10) : 18,
+     ('EX', 'Atk', 'Massive', 15) : 23,
+     ('EX', 'Atk', 'Massive', 20) : 25.5,
+     ('EX', 'Atk', 'Big', 10) : 25,
+     ('EX', 'Atk', 'Big', 15) : 33,
+     ('EX', 'Atk', 'Big', 20) : 37,
+
+    # HP
+    ('Normal', 'HP', 'Small', 10) : 12,
+    ('Normal', 'HP', 'Small', 15) : 14,
+    ('Normal', 'HP', 'Medium', 10) : 15,
+    ('Normal', 'HP', 'Medium', 15) : 17,
+    ('Normal', 'HP', 'Big', 10) : 18,
+    ('Normal', 'HP', 'Big', 15) : 21,
+    ('Normal', 'HP', 'Big II', 10) : 19,
+    ('Normal', 'HP', 'Big II', 15) : 24,
+
+    ('Omega', 'HP', 'Medium', 10) : 12,
+    ('Omega', 'HP', 'Medium', 15) : 14.5,
+    ('Omega', 'HP', 'Big', 10) : 15,
+    ('Omega', 'HP', 'Big', 15) : 18,
+    ('Omega', 'HP', 'Big', 20) : 20,
+
+     ('EX', 'HP', 'Small', 10) : 10,
+     ('EX', 'HP', 'Small', 15) : 12,
+     ('EX', 'HP', 'Medium', 10) : 12,
+     ('EX', 'HP', 'Medium', 15) : 14.5,
+     ('EX', 'HP', 'Big', 10) : 15,
+     ('EX', 'HP', 'Big', 15) : 18  # This value is listed as "?" on wiki
+
+}
