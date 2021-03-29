@@ -1,0 +1,10 @@
+Read data from cvs into Weapon class isntances
+
+Add GUI elements for all needed user inputs, and associate them with text variables
+
+Implement permutation code to find all permuattions of weapons
+    - put each one into a WeaponList
+
+Calculate AA and CA damage for each WeaponList
+
+Print results

@@ -1,0 +1,4 @@
+Name,Element,Type,Atk Val,HP Val,Skill Max Level,Skill 1 Mod Type,Skill 1 Stat,Skill 1 Size,Skill 2 Mod Type,Skill 2 Stat,Skill 2 Size,Skill 3 Mod Type,Skill 3 Stat,Skill 3 Size,Skill 4 Mod Type,Skill 4 Stat,Skill 4 Size
+Leviathan Bow Omega,Water,Bow,2830,261,20,Omega,HP,Medium,,,,,,,,,
+Leviathan Gaze Omega,Water,Dagger,2700,273,20,Omega,Atk,Big,,,,,,,,,
+Ancient Auberon,Water,Melee,2620,280,15,Omega,Atk,Small,Omega,HP,Small,Omega,DA,Medium,Omega,Crit,Medium
